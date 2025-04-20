@@ -1,6 +1,6 @@
 # PastForward
 
-PastForward is an Instagram-like application with a unique twist - it allows users to interact with historical posts, browse, like, and comment on them. The platform combines modern social media features with historical content exploration.
+PastForward is an application with a unique twist - it allows users to interact with historical posts, browse, like, and comment on them. The platform combines modern social media features with historical content exploration.
 
 ## Screenshots
 
