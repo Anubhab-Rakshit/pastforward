@@ -1,6 +1,8 @@
 # PastForward
 
-PastForward is an application with a unique twist - it allows users to interact with historical posts, browse, like, and comment on them. The platform combines modern social media features with historical content exploration.
+PastForward is a one-of-a-kind application that bridges the gap between history and modern social interaction. With a unique twist, it allows users to step back in time and engage with historical posts as if they were part of today’s social feed. Browse iconic moments, like legendary events, and comment on the past — all through a familiar, interactive social media experience.
+
+Whether it’s a royal decree, a revolutionary speech, or a snapshot of daily life from centuries ago, PastForward makes history feel alive and personal. It’s not just about learning the past — it’s about living it..
 
 ## Screenshots
 
