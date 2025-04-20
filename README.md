@@ -5,16 +5,30 @@ PastForward is an application with a unique twist - it allows users to interact 
 ## Screenshots
 
 ### Home Page
-[Screenshot placeholder]
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/521a4dbe-4203-4a99-aed5-34d597ca9f1a" />
+
 
 ### Public Feed
-[Screenshot placeholder]
+<img width="1499" alt="image" src="https://github.com/user-attachments/assets/4f2812f0-26a1-43a0-a255-107e2239957a" />
+
 
 ### Profile Page
-[Screenshot placeholder]
+<img width="1510" alt="image" src="https://github.com/user-attachments/assets/ab6a6c8e-6500-4259-a692-31e577743876" />
 
-### Interact Page
-[Screenshot placeholder]
+### Create Post
+<img width="1494" alt="Screenshot 2025-04-20 at 1 54 43 PM" src="https://github.com/user-attachments/assets/3c44e605-b016-4192-b523-214646ecfcdd" />
+
+### Profile Page
+
+<img width="1511" alt="Screenshot 2025-04-20 at 1 55 27 PM" src="https://github.com/user-attachments/assets/a4802a29-a450-4fd0-8fcb-ffa3ffec96b1" />
+
+
+### Settings Page 
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/ec87b14c-976a-454c-b6ee-4945b90daf75" />
+
+### How it Works ?
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/252df348-a163-461a-aa5e-16bbb4931ffa" />
+
 
 ## Features
 
