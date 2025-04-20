@@ -69,22 +69,22 @@ https://docs.google.com/presentation/d/1PC9J7_nf_X8zuRKeX_Jw09rF2KhYCQiy/edit?us
 ## Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Anubhab-Rakshit/pastforward.git
    cd pastforward
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 3. Set up environment variables:
    Create a `.env.local` file in the root directory with the following variables:
 
-   \`\`\`
+   ```
    # Database
    DATABASE_URL=
    DATABASE_URL_UNPOOLED=
@@ -101,20 +101,20 @@ https://docs.google.com/presentation/d/1PC9J7_nf_X8zuRKeX_Jw09rF2KhYCQiy/edit?us
    ELEVENLABS_API_KEY=
    REPLICATE_API_TOKEN=
    STABILITY_API_KEY=
-   \`\`\`
+   ```
 
 4. Set up the database:
-   \`\`\`bash
+   ```bash
    npx prisma generate
    npx prisma db push
-   \`\`\`
+   ```
 
 5. Run the development server:
-   \`\`\`bash
+  ```bash
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 6. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
