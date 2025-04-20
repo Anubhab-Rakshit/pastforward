@@ -66,6 +66,33 @@ https://docs.google.com/presentation/d/1PC9J7_nf_X8zuRKeX_Jw09rF2KhYCQiy/edit?us
 - **Image Generation**: Replicate, Stability AI
 - **Deployment**: Vercel
 
+## Flowcharts
+
+### API Routes Structure
+![image](https://github.com/user-attachments/assets/fd1dc01a-4738-43fe-9d5a-372395e1424a)
+
+### Authentication Flow
+
+![image](https://github.com/user-attachments/assets/9e9105a2-91d6-4893-bd2b-ff75dc5c0cb0)
+
+### Component Hierarchy
+
+![image](https://github.com/user-attachments/assets/66337ea3-0a30-4a20-b40b-c1ee91946e91)
+
+### Data Model Relationships
+
+![image](https://github.com/user-attachments/assets/97c1f668-f5a0-41bc-90ac-92caeed30e6e)
+
+
+### Overall Application Architecture
+
+![image](https://github.com/user-attachments/assets/db26e7f8-21fd-48a1-9f4e-64add9cc0d79)
+
+### Post Creation Flow
+
+![image](https://github.com/user-attachments/assets/5fa1fd0b-21c2-4bd7-8284-f1448da54567)
+
+
 ## Installation
 
 1. Clone the repository:
