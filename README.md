@@ -70,7 +70,7 @@ https://docs.google.com/presentation/d/1PC9J7_nf_X8zuRKeX_Jw09rF2KhYCQiy/edit?us
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/pastforward.git
+   git clone https://github.com/Anubhab-Rakshit/pastforward.git
    cd pastforward
    \`\`\`
 
