@@ -15,7 +15,11 @@ export const metadata: Metadata = {
   title: "PastForward",
   description: "Reimagine history through social media",
   generator: "Created by Anubhab Rakshit",
+  icons: {
+    icon: "/logo.jpeg",
+  },
 }
+
 
 export default function RootLayout({
   children,
