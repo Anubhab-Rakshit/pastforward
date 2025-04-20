@@ -96,11 +96,10 @@ https://docs.google.com/presentation/d/1PC9J7_nf_X8zuRKeX_Jw09rF2KhYCQiy/edit?us
    GOOGLE_CLIENT_ID=
    GOOGLE_CLIENT_SECRET=
 
+   
    # AI Services
-   OPENAI_API_KEY=
-   ELEVENLABS_API_KEY=
-   REPLICATE_API_TOKEN=
-   STABILITY_API_KEY=
+   GEMINI_API_KEY=
+   HUGGINGFACE_API_KEY=
    ```
 
 4. Set up the database:
